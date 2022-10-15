@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Quaz823
-- 👀 I’m interested in Video games and messing around with computer settings
+- 👀 I’m interested in Video games and coding
 - 🌱 I’m currently learning lua and python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Quaz#6329 is my discord
 
 <!---
